@@ -156,4 +156,4 @@ local notifications = {}; do
     end
 end
 
-return notifications 
+return NotificationLibrary
